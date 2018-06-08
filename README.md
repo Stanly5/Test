@@ -1,1 +1,2 @@
-TEST
+- The purpose of this project is translating Raidrive to Chinese language. Someone who want to contribute to translate Raidrive reveiw the file which is English version.
+- Thank you so much for your contribution in advance, and it will be great helps for us and many Chinese Users 
