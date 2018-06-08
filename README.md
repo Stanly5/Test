@@ -1,23 +1,26 @@
 ## Raidrive Translation Project
 
 
-- Each language source file is initialized, but not confirmed completely except English and Korean.
+Each language source file is initialized, but not confirmed completely except English and Korean.
 
 
-StringDictionary.ar.xaml - Arabic
+> StringDictionary.ar.xaml - Arabic
 
-StringDictionary.de.xaml - German
+> StringDictionary.de.xaml - German
 
-StringDictionary.en.xaml - English
+> StringDictionary.en.xaml - English
 
-StringDictionary.es.xaml - Spanish
+> StringDictionary.es.xaml - Spanish
 
-StringDictionary.fr.xaml - French
+> StringDictionary.fr.xaml - French
 
-StringDictionary.ja.xaml - Japanese
+> StringDictionary.ja.xaml - Japanese
 
-StringDictionary.ko.xaml - Korean
+> StringDictionary.ko.xaml - Korean
 
-StringDictionary.zh-Hans.xaml - Chinese (Simplified)
+> StringDictionary.zh-Hans.xaml - Chinese (Simplified)
 
-StringDictionary.zh-Hans.xaml - Chinese (Traditional)
+> StringDictionary.zh-Hans.xaml - Chinese (Traditional)
+
+### Other Language 
+When someone voluntarily supports translation to new language, Raidrive support team would review and initialize it.
