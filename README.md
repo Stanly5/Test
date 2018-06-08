@@ -1,6 +1,6 @@
 ## Raidrive Translation Project
 
-Each language source file is initialized, but not confirmed completely except English and Korean.
+Each language source file is initialized, but not completely confirmed yet, except English and Korean.
 
 File name | Language
 ----------|---------
