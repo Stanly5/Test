@@ -14,5 +14,5 @@ StringDictionary.ko.xaml | Korean
 StringDictionary.zh-Hans.xaml | Chinese (Simplified)
 StringDictionary.zh-Hans.xaml | Chinese (Traditional)
 
-### Other Language 
+### Other Languages 
 When someone voluntarily supports translation to new language, Raidrive support team would review and add more.
