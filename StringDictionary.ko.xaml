@@ -3,7 +3,6 @@
 	<!--  시작바>설정, 드라이브 속성(General)  -->
 	<system:String x:Key="Current.Language">ko</system:String>
 
-	 <!-- 이부분을 바꾸어서 테스트를 좀 해보려고 합니다 -->
 	<system:String x:Key="Settings">설정</system:String>
 	<system:String x:Key="Settings.Header">설정</system:String>
 	<system:String x:Key="Settings.General">일반</system:String>
