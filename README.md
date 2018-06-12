@@ -11,6 +11,7 @@ StringDictionary.es.xaml | Spanish
 StringDictionary.fr.xaml | French
 StringDictionary.ja.xaml | Japanese
 StringDictionary.ko.xaml | Korean
+StringDictionary.pt.xaml | Portuguese
 StringDictionary.zh-Hans.xaml | Chinese (Simplified)
 StringDictionary.zh-Hant.xaml | Chinese (Traditional)
 
