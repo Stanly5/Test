@@ -15,4 +15,4 @@ StringDictionary.zh-Hans.xaml | Chinese (Simplified)
 StringDictionary.zh-Hant.xaml | Chinese (Traditional)
 
 ### Other Languages 
-When someone would voluntarily support translation to other language, please leave a message on Issue. Raidrive support team would review it.
+When someone would voluntarily support translation to other language, please leave a message on Issue. 
