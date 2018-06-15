@@ -4,7 +4,6 @@ Each language source file is initialized, but not completely confirmed yet, exce
 
 File name | Language
 ----------|---------
-StringDictionary.ar.xaml | Arabic
 StringDictionary.de.xaml | German
 StringDictionary.en.xaml | English
 StringDictionary.es.xaml | Spanish
