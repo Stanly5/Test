@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:RaiDrive.Center.Languages" xmlns:system="clr-namespace:System;assembly=mscorlib">
 
-	<!--  시작바>설정, 드라이브 속성(General)  -->
+	<!--  Menu bar>Settings, General  -->
 	<system:String x:Key="Current.Language">de</system:String>
 
 	<system:String x:Key="Settings">Einstellungen</system:String>
@@ -22,10 +22,10 @@
 	<system:String x:Key="AddDrive.Header">New Drive</system:String>
 	<system:String x:Key="AddDrive.Storage">Storage</system:String>
 
-	<!--  드라이브 속성  -->
+	<!--  Drive  -->
 	<system:String x:Key="AddDrive.Drive">Drive</system:String>
 
-	<!--  네트워크 드라이브 연결  -->
+	<!--  Add New Storage  -->
 	<system:String x:Key="AddDrive.Network">Network</system:String>
 	<system:String x:Key="AddDrive.ReadOnly">Read-only</system:String>
 	<system:String x:Key="AddDrive.MountAtBoot">Reconnect at signin</system:String>
@@ -39,6 +39,8 @@
 	<system:String x:Key="AddDrive.Device">Device</system:String>
 	<system:String x:Key="AddDrive.PrivateKey">Private Key</system:String>
 	<system:String x:Key="AddDrive.Charset">Charset</system:String>
+	<system:String x:Key="AddDrive.TransferMode">Transfer Mode</system:String>
+	<system:String x:Key="AddDrive.Encryption">Encryption</system:String>
 
 	<system:String x:Key="Vailidation.Volume">Please enter a valid volume label</system:String>
 	<system:String x:Key="Vailidation.VolumeExist">This name alreay exists</system:String>
@@ -52,7 +54,7 @@
 	<system:String x:Key="Vailidation.Username">Please enter a username</system:String>
 	<system:String x:Key="Vailidation.Password">Please enter a password</system:String>
 
-	<!--  시작바>설정(account), 드라이브 속성(volume)  -->
+	<!--  Menu bar>Settings, account, volume  -->
 	<system:String x:Key="Vailidation.Hint.Volume">volume label</system:String>
 	<system:String x:Key="Vailidation.Hint.Address">host.example.com</system:String>
 	<system:String x:Key="Vailidation.Hint.Address.LocalDrive">folder</system:String>
@@ -120,7 +122,7 @@
 	<system:String x:Key="Message.OAuth.InvalidClient">Unmanaged domain by Active Directory</system:String>
 	<system:String x:Key="Message.OAuth.InvalidClientDescription">Your account is not managed by Active Directory. You should contact Active Directory or domain administrator or sign in as a personal account.</system:String>
 
-	<!--  ConnectResponse 메시지  -->
+	<!--  ConnectResponse Message  -->
 	<system:String x:Key="WebExceptionStatus.ConnectFailure">Please check the address.</system:String>
 	<system:String x:Key="WebExceptionStatus.ConnectionClosed">Please double check the protocol{0} and port{1}.</system:String>
 	<system:String x:Key="WebExceptionStatus.SendFailure">Please double check the protocol{0} and port{1}.</system:String>
@@ -134,7 +136,7 @@
 
 	<system:String x:Key="OtherResponseCode.2">Path not found. Check the path{0}.</system:String>
 	<system:String x:Key="OtherResponseCode.3">Please double check the protocol{0} and port{1}.</system:String>
-	<!--  ConnectResponse 메시지  -->
+	<!--  ConnectResponse Message  -->
 
 	<system:String x:Key="Words.Reason">Reason</system:String>
 	<system:String x:Key="Words.Delegation.Stop">Delegation aborted</system:String>
